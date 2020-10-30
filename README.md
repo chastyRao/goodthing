@@ -1,0 +1,2 @@
+# goodthing
+c语言
